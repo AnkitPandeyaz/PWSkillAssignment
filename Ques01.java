@@ -2,7 +2,7 @@
 Sample Input : x=2, y=4 (Both integers)
 Sample Output : 8 */
 
-class Question01 {
+class Ques01 {
     public static void main(String[] args) {
       int x = 2;
       int y = 4;
